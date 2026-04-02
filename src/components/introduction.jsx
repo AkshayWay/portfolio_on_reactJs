@@ -25,7 +25,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://drive.google.com/file/d/1t6ICZOU0OdcPNS8Sg4kD0DakQ1CGtJOJ/view?usp=sharing"
+                              href="https://drive.google.com/file/d/1rF3fExfEp5FICVZb9wGsdj7m3cmbEihi/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

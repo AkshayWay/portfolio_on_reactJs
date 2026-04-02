@@ -28,8 +28,65 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
+                          Senior Software Engineer at Cognizant
+                          <span> 2022-present</span>
+                        </h2>
+                        <p>
+                          Designed and maintained a CMS using
+                          microservices-based, event-driven architecture with
+                          Node.js, TypeScript, and MongoDB.
+                        </p>
+                        <p>
+                          Improved code reliability by writing unit tests with
+                          Jest, achieving 85%+ coverage. Optimized backend
+                          performance through Node.js refactoring and MongoDB
+                          indexing.
+                        </p>
+                        <p>
+                          Worked within Agile teams leveraging AWS-based CI/CD
+                          pipelines. Utilized AI tools like GitHub Copilot and
+                          Claude to accelerate development.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Senior Software Engineer at Tech Mahindra
+                          <span> Nov 2021 - Oct 2023</span>
+                        </h2>
+                        <p>
+                          Developed APIs in Node.js for multiple projects. Led a
+                          team of 4 developers, handling environment setup, code
+                          review, and deployment.
+                        </p>
+                        <p>
+                          Maintenance and enhancement of application APIs using
+                          APM logs and Kubernetes.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
                           Senior Analyst/Software Developer at Capgemini India
-                          <span>July 2018-present</span>
+                          <span> July 2018-present</span>
                         </h2>
                         <p>
                           I am working as a Software developer at Capgemini.

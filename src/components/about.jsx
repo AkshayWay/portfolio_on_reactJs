@@ -17,16 +17,14 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I hold a Master's degree in Information Technology and
-                        having 3+years of experience in ASP.NET MVC along with
-                        JavaScript and JQuery. I love exploring new
-                        technologies. After working as .NET developer, now I am
-                        looking forward to gaining knowledge in open source
-                        languages.
-                      </p>
-                      <p>
-                        I have done a couple of freelance projects and now have
-                        started working on Angular, ReactJS and NodeJS.
+                        Senior Software Engineer with 8+ years of experience in
+                        building scalable applications using Node.js,
+                        TypeScript, and React.js. Expertise in microservices
+                        architecture, RESTful APIs, and event-driven systems.
+                        Strong in performance optimization using MongoDB, Redis
+                        caching, and writing high-quality tested code with Jest.
+                        Experienced in AWS/Azure CI/CD, Agile methodologies, and
+                        leading teams to deliver end-to-end solutions.
                       </p>
                     </div>
                   </div>
